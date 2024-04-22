@@ -1,4 +1,4 @@
-我是Bilibili的Up主[Garth](https://space.bilibili.com/170632967)。这是我制作的所有MIDI文件。
+我是Bilibili的Up主[Garth](https://space.bilibili.com/170632967)。这是所有我制作的已完成的MIDI文件。
 
 大部分文件由网络上公开的演奏录音，使用[AI软件](https://github.com/bytedance/GiantMIDI-Piano)转录，再经我精细的修整得到；小部分的MIDI为自己捏造。
 
